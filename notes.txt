@@ -1,0 +1,12 @@
+needs: 
+  1. vertical sidebar navbar
+  2. shortcut icons
+  3. responsive ===> hamburger menu
+  4. dropdowns in navbar
+  5. sass
+  6. aria labels
+  7. refactor for semantic html
+  8. 3D/photorealism
+  9. animation
+  10. sticky navbar
+  11. refactor in sass
